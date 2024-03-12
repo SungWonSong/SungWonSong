@@ -1,13 +1,14 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=add8e6&height=300&section=header&text=sungwon's%20github&fontSize=90&fontColor=00008B" />
-</div>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=add8e6&height=300&section=header&text=sungwon's%20github&fontSize=90&fontColor=E0FFFF" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 <style>
     body {
         font-family: 'Roboto', sans-serif;
     }
 </style>
+</div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
